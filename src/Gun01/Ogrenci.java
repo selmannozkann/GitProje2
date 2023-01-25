@@ -8,6 +8,8 @@ public class Ogrenci {
 
         }
 
+        System.out.println("merhaba 2");
+
 
 
     }
